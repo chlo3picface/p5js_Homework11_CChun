@@ -30,6 +30,7 @@ h2 {
   font-family: "Redaction 50", serif;
   font-weight: 400;
   font-style: normal;
+  text-align: center;
 }
 
 p {
@@ -38,7 +39,5 @@ p {
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
+  text-align: center;
 }
-
-
-
