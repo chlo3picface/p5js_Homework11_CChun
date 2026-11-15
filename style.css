@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Redaction+50:ital,wght@0,400;0,700;1,400&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: block;
+  padding: 20px;
+  margin: auto;
+}
+
+div.ex-text {
+  display: block;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  color: whitesmoke;
+  font-family: "Redaction 50", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+
+h2 {
+  color: whitesmoke;
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  color: whitesmoke;
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+
+
